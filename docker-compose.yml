@@ -1,0 +1,12 @@
+version: "3"
+services:
+    jupyter:
+        build:
+            context: ./jupyter
+        ports:
+            - "8888:8888"
+        volumes:
+            - "./notebooks:/notebooks"
+            - "./data:/data"
+        container_name: nyc-311-complaints-container
+        command: sh -c 'jupyter notebook --ip 0.0.0.0 --NotebookApp.token=""'
