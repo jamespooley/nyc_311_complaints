@@ -10,7 +10,7 @@ $ cd nyc_311_requests
 To builds, (re)create, start, and attach to the container in order to reproduce the analyses, enter the following in your terminal:
 
 ```bash
-$ docker-compose up
+$ docker-compose down && docker-compose build --no-cache && docker-compose up --force-recreate
 ```
 
 Once the terminal says that the container is up and running, do the following:
