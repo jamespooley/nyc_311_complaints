@@ -3,7 +3,7 @@
 Make sure you have both [`Docker`](https://docs.docker.com/install/) and [`Docker Compose`](https://docs.docker.com/compose/install/) installed on your machine.
 
 ```bash
-$ git clone https://github.com/jamespooley/nyc_311_requests.git
+$ git clone https://github.com/jamespooley/nyc_311_complaints.git
 $ cd nyc_311_requests
 ```
 
