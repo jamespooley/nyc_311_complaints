@@ -23,7 +23,7 @@ Once the terminal says that the container is up and running, do the following:
 Once the code in the two notebooks has been executed, destroy the container by entering:
 
 ```bash
-docker-compose down
+$ docker-compose down
 ```
 
 in your terminal.
