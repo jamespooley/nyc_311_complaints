@@ -36,5 +36,5 @@ nubmerous services is needed.
 ### Further Reading and Exploration
 
 * [Running a Containter](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/running.html) from the Jupyter Docker Stacks documentation
-* [What a Hundred Million Calls to 311 Reveal about New York](https://www.wired.com/2010/11/ff_311_new_york/)
+* Johnson, S. (2010). [What a Hundred Million Calls to 311 Reveal about New York](https://www.wired.com/2010/11/ff_311_new_york/). _Wired_
 * [The Promises and Pitfalls of 311 Data](https://arwhite.mit.edu/promises-pitfalls-311-data) in _Urban Affairs Review_
