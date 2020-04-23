@@ -1,6 +1,6 @@
 ### Setup
 
-Make sure you have both [`Docker`](https://docs.docker.com/install/) and [`Docker Compose`](https://docs.docker.com/compose/install/) installed on your machine.
+As pre-work, ensure that you have both [`Docker`](https://docs.docker.com/install/) and [`Docker Compose`](https://docs.docker.com/compose/install/) installed on your machine.
 
 ```bash
 $ git clone https://github.com/jamespooley/nyc_311_complaints.git
