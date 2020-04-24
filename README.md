@@ -41,3 +41,4 @@ nubmerous services is needed.
 * [Docker Compose for Data Science](https://www.andrewmahon.info/blog/docker-compose-data-science)
 * [311 Service Requests from 2010 to Present](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
 * [Analyzing 311 Complaints per Tract and Merging Data with Census Analysis](https://github.com/BuzzFeedNews/2018-06-nyc-311-complaints-and-gentrification/blob/master/notebooks/03-311-call-nyc-analysis.ipynb)
+* [Geographic Areas Reference Manual](https://www.census.gov/programs-surveys/geography/guidance/geographic-areas-reference-manual.html) from the United States Census Bureau
