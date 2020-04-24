@@ -4,7 +4,7 @@ As pre-work, ensure that you have both [`Docker`](https://docs.docker.com/instal
 
 ```bash
 $ git clone https://github.com/jamespooley/nyc_311_complaints.git
-$ cd nyc_311_requests
+$ cd nyc_311_complaints
 ```
 
 To builds, (re)create, start, and attach to the container in order to reproduce the analyses, enter the following in your terminal:
