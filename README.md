@@ -1,3 +1,8 @@
+# NYC 311 Complaints Exploration
+
+![](nyc311-logo.png)
+
+
 ### Setup
 
 As pre-work, ensure that you have both [`Docker`](https://docs.docker.com/install/) and [`Docker Compose`](https://docs.docker.com/compose/install/) installed on your machine.
