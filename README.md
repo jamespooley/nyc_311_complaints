@@ -4,6 +4,10 @@
 <img src="nyc311-logo.png" width="300">
 </p>
 
+Per their official site:
+
+> 311's mission is to provide the public with quick, easy access to all New York City government services and information while maintaining the highest possible level of customer service.
+
 
 ### Setup
 
