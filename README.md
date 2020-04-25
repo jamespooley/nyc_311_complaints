@@ -55,3 +55,4 @@ nubmerous services is needed.
 * [Geographic Areas Reference Manual](https://www.census.gov/programs-surveys/geography/guidance/geographic-areas-reference-manual.html) from the United States Census Bureau
 * [US Census Bureau Geographic Entities and Concepts](https://www.census.gov/content/dam/Census/data/developers/geoareaconcepts.pdf)
 * [Securely Storing Credentials in a Jupyter Notebook](http://veekaybee.github.io/2020/02/25/secrets/)
+* [Beyond Interactive: Notebook Innovation at Netflix](https://netflixtechblog.com/notebook-innovation-591ee3221233)
