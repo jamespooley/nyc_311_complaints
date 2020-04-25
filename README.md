@@ -1,6 +1,8 @@
 # NYC 311 Complaints Exploration
 
-<img src="nyc311-logo.png" width="300" align="center">
+<p align="center">
+<img src="nyc311-logo.png" width="300">
+</p>
 
 
 ### Setup
