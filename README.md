@@ -43,3 +43,4 @@ nubmerous services is needed.
 * [Analyzing 311 Complaints per Tract and Merging Data with Census Analysis](https://github.com/BuzzFeedNews/2018-06-nyc-311-complaints-and-gentrification/blob/master/notebooks/03-311-call-nyc-analysis.ipynb)
 * [Geographic Areas Reference Manual](https://www.census.gov/programs-surveys/geography/guidance/geographic-areas-reference-manual.html) from the United States Census Bureau
 * [US Census Bureau Geographic Entities and Concepts](https://www.census.gov/content/dam/Census/data/developers/geoareaconcepts.pdf)
+* [Securely Storing Credentials in a Jupyter Notebook](http://veekaybee.github.io/2020/02/25/secrets/)
